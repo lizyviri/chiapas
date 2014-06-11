@@ -1,0 +1,828 @@
+	<!doctype html>
+	<html>
+	<head>
+	<title>BIENVENIDOS TURISTAS</title>
+	<meta name="viewport"content="width=device-width, initial-scale=1">
+	<link rel="stylesheet" href="jquery.mobile-1.4.1.min.css">
+	<script src="jquery-2.0.3.min.js"></script>
+	<script src="jquery.mobile-1.4.1.min.js"></script>
+	</head>
+	<body bgcolor="white">
+<EMBED SRC="D:\AMOR\tu & yo.MP3" AUTOSTART="TRUE" LOOP="TRUE" HIDDEN="TRUE">
+<div data-role="page" id="uno">
+<div data-role="header">
+<marquee bgcolor="#F5F5F5" behavior="alternate" direction="right" width="100%" HEIGHT="60%">
+<b><font color="#191970" size="5" face="gabriola">BIENVENIDOS TURISTAS</font></b> 
+</marquee>
+</div>
+<div data-role="main"class="ui-content">
+<p> <center>
+<a href="#mypopup"data-rel="popup"data-position-to="window">
+<img src ="F:\CHIAPAS PROYECTO\CHI.jpg" style="width:450px;"></a> 
+<div data-role="popup"id="mypopup">
+<p><font color="BLUE">
+<FONT FACE="Gabriola">
+<H1><center>CHIAPAS</center></H1>
+</font>
+</FONT></p>
+<a href="#" data-rel="back"class="ui-btn ui-btn-inline ui-corner-all ui-shadow ui-btn-a ui-icon-delete iu-btn-icon-notext iu-btn-right">
+close
+</a>
+<img src ="F:\CHIAPAS PROYECTO\CHI.jpg" style="width:500px;height:500px"alt="skeret view">
+</div>
+<p>
+<font color="BLUE">
+<FONT FACE="Gabriola">
+<H1><center>CHIAPAS EL ESTADO MAS HERMOSO EN NATURALEZA
+</CENTER>
+</FONT>
+</font>
+</H1>
+<font FACE="GABRIOLA">
+<FONT COLOR="BLACK">
+<H2>
+<P ALIGN="LEFT">
+Prehistoria
+Alrededor del 9000 a.C., se asentaron los primeros pobladores conocidos en el estado chiapaneco 
+<BR>
+en las cuevasde Los Glifos, de Santa Martha y la Sima de las Cotorras.Estos pobladores, posiblemente 
+<BR>
+emigraron del continente asiático, vivieron como nómadas y subsistieron de la caza y de la 
+<BR>
+recolección de frutas y raíces.
+<BR>
+Preclásico
+<BR>
+Durante el preclásico, entre los años 2500 a.C. y 200 d.C., se desarrollo en el Soconusco la cultura mokaya.
+<BR>
+Estaba conformada por hombres primitivos que al descubrir la agricultura y cultivar el maz tuvieron la 
+<BR>
+necesidad de cuidar los sembradíos. De la misma manera surgieron las primeras poblaciones en otras partes 
+<BR>
+de Mesoamerica junto con la vida sedentaria y la domesticación de animales como el perro y el guajolote.
+<BR>
+Surgieron las primeras células sociales en aldeas, con un jefe o cacique y se manifestaron las primeras 
+<BR>
+desigualdades sociales. Formaban pequeños caseríos rudimentarios y en el centro se hallaba la casa mas grande
+<BR>
+donde residía el cacique.
+<BR>
+Los vestigios de la cultura mokaya se localizan en la cuenca del río Coatán, en lo que actualmente es el 
+<BR>
+municipio de Tapachula. Se ha propuesto que lo mokaya son los predecesores de los olmecas, la cultura madre
+<BR>
+de las civilizaciones mesoamericanas.
+<BR>
+</P>
+</font>
+</FONT>
+</h2>
+<div data-role="content"> 
+<ul>
+<a href="#dos"data-transition="slide" class="ui-btn ui-btn-inline ui-corner-all ui-shadow">  MAPAS PARA LLEGAR A CHIAPAS  </a>
+<a href="#tres"data-transition="pop"class="ui-btn ui-btn-inline ui-corner-all ui-shadow">  LUGARES MAS VISITADOS  </a>
+<a href="#cuatro"data-transition="flip"class="ui-btn ui-btn-inline ui-corner-all ui-shadow">  HOSPEDAJE  </a>
+<a href="#cinco"data-transition="flow"class="ui-btn ui-btn-inline ui-corner-all ui-shadow">  LUGARES PAR ALMORZAR  </a>
+<a href="#seis"data-transition="flow"class="ui-btn ui-btn-inline ui-corner-all ui-shadow">  HISTORIA MAS POPULAR DE CHIAPAS  </a>
+</ul>
+</div>
+</div>
+<div data-role="footer">
+<font color="red">
+<FONT FACE="Gabriola">
+<H1><center>....CHIAPAS....</center></H1>
+</font>
+</FONT>
+</div>
+</div>
+<br>
+<div data-role="page" id="dos">
+<div data-role="header"> 
+<CENTER>MAPAS PARA LLEGAR A CHIAPAS</CENTER>
+</div>
+<div data-role="content"> 
+<FONT FACE="Gabriola">
+<img src="ma.gif" align="left" style="width:1000px;">
+<img src="mal.jpg" align="left" style="width:1000px;">
+<center>
+<H1> Lo mejor y calidad en imagenes de mapas... 
+pero si no les gusta puden consultar la pagina en el button siguiente
+</center>
+</FONT>
+</H2>
+</div>
+<div data-role="panel" id="mypanel"data-position="right">
+<FONT FACE="Gabriola">
+<img src ="F:\CHIAPAS PROYECTO\CHI.jpg" height=200 align="middle" border=5>
+<p>
+<a href="http://www.chiapas.gob.mx/mapas/"data-transition="slide" class="ui-btn ui-btn-inline ui-corner-all ui-shadow"> MAPAS</a>
+<BR>
+<a href="#dos" data-rel="close" class="ui-btn ui-btn-inline ui-shadow ui-corner-all ui-btn-a ui-icon-delete ui-btn-icon-left">cerrar</a>
+</div>
+<div data-role="main" class="ui-content">
+</FONT>
+<a href="#mypanel" class="ui-btn ui-btn-inline ui-corner-all ui-shadow">ABRIR</a>
+</div>
+<div data-role="footer">
+<a href="#uno">  REGRESAR </a>
+</div>
+</div>
+<div data-role="page" id="tres">
+<div data-role="header">
+<CENTER>LUGARES MAS VISITADOS</CENTER>
+</div>
+<div data-role="content">
+<font face="Gabriola">
+<font color="blue">
+<p align="left">
+<h1><center>San Cristobal de las Casas</h1>
+</center>
+</font>
+</font>
+<font face="Gabriola">
+<font color="black">
+<H2>
+<img src ="F:\CHIAPAS PROYECTO\pa.jpg" height=265 align="right" border=5>
+Ubicado a 85 kilometros de Tuxtla Gutierrez, la capital del estado,
+<br>
+esta ciudad de clima templado y humedo, es uno de los lugares mas
+<br>
+bellos de chiapas en cuanto a diseno urbano se refiere.
+<br>
+Dentro de su arquitectura destaca la Catedral o el Templo de Santo Domingo, 
+<br>
+los cuales fueron restaurados utilizando una combinacion de abundantes detalles de
+<br>
+estilo barroco y elementos arquitectonicos locales.
+<br>
+Al caminar por las calles adoquinadas de San Cristobal, 
+<br>
+se pueden apreciar las casas con tejados a dos aguas y balcones de hierro forjado.
+</H2>
+</p>
+</font>
+</font>
+<font face="Gabriola">
+<font color="blue">
+<p align="left">
+<h1><center>Palenque</h1>
+</center>
+</font>
+</font>
+<font face="Gabriola">
+<font color="black">
+<H2>
+<img src ="F:\CHIAPAS PROYECTO\pu.jpg" height=265 align="right" border=5>
+Del mundo maya, esta es una de las ciudades mas notables,
+<br>
+se encuentra al noreste del estado de Chiapas, en una zona
+<br>
+de selva tropical alta, donde abundan cascadas y rios.se cree
+<br>
+que Palenque fue fundada alrededor del ano 100 a. C. y su desarrollo
+<br>
+duro casi mil anos, despues de los cuales fue totalmente abandonada.
+<br>
+El Palacio y el Templo de las inscripciones, son edificios que destacan
+<br> 
+por pertenecer al período clasico, es decir del 400 a 700 d. C. Los hallazgos 
+<br>
+realizados en Palenque confirman que los mayas tenian una compleja organizacion
+<br> 
+social y religiosa, ademas de conocimientos arquitectonicos, astronomicos y matematicos
+<br>
+Los jeroglificos de Palenque hablan de la historia militar de la ciudad, de las hazanas 
+<br>
+de sus gobernantes, del calendario y sus rituales, aportando informacion
+<br>
+invaluable sobre la cultura maya.
+</H2>
+</p>
+</font>
+</font>
+<font face="Gabriola">
+<font color="blue">
+<p align="left">
+<h1><center>Cascadas de Agua Azul</h1>
+</center>
+</font>
+</font>
+<font face="Gabriola">
+<font color="black">
+<H2>
+<img src ="F:\CHIAPAS PROYECTO\me.jpg" height=265 align="right" border=5>
+A 64 kilometros de la ciudad de Palenque, 
+<br>
+ubicado en el municipio de Tumbala, esta
+<br>
+area que los tzeltales conocen como Montanas 
+<br>
+de Agua, es donde se abre paso el pequeno rio 
+<br>
+Agua Azul, vertiente del rio Tujila y que a su 
+<br>
+vez desemboca en el rio Usumacinta, segun elclima.com.mx 
+<br>
+El intenso color que distingue a estas aguas, se debe a que
+<br>
+la roca calcarea por donde pasan, esta compuesta de varios
+<br>
+tipos de sedimentos, pero principalmente de carbono de calcio
+<br>
+e hidroxido de magnesio, ambos de color blanco o beige.
+</H2>
+</p>
+</font>
+</font>
+<font face="Gabriola">
+<font color="blue">
+<p align="left">
+<h1><center>La Venta</h1>
+</center>
+</font>
+</font>
+<font face="Gabriola">
+<font color="black">
+<H2>
+<img src ="F:\CHIAPAS PROYECTO\mi.jpg" height=265 width="200" align="right" border=5>
+Pertenece a la reserva del Ocote y se encuentra a 45 minutos
+<br>
+del norte de Tuxtla.Este canon tambien es conocido como "El Sagrado"
+<br>
+,debido a que se han encontrado en las paredes vestigios de antiguas
+<br>
+donde civilizaciones. Tiene una longitud aproximada de 80 kilometros, 
+<br>
+por donde corre el rio del mismo nombre, uno de los principales afluentes 
+<br>
+del Grijalva. La Venta tiene una profundidad de aproximadamente 400 metros,
+<br>
+donde se encuentra algunas cuevas que tuvieron uso funerario entre los 
+<br>
+antiguos habitantes de la region.
+</H2>
+</p>
+</font>
+</font>
+<font face="Gabriola">
+<font color="blue">
+<p align="left">
+<h1><center>Lagunas de Montebello</h1>
+</center>
+</font>
+</font>
+<font face="Gabriola">
+<font color="black">
+<H2>
+<img src ="F:\CHIAPAS PROYECTO\mo.jpg" height=265 align="right" border=5>
+<br>
+Nombrado parque nacional en 1959, esta ubicado en los
+<br>
+municipios de Trinitaria y La Independencia; consta de
+<br>
+6 mil 22 hectareas de bosque mesofilo de montana, pino 
+<br>
+y encino.El 18% de esta superficie lo ocupan lagos y
+<br>
+lagunas, de las que se han contabilizado cerca de 68 en
+<br> 
+total, cuyos colores van del color turquesa al negro. A
+<br>
+causa de las lluvias, la disolucion de calizas ha permitido
+<br>
+que estas lagunas tengan caracteristicas especiales como son
+<br>
+su forma, tamano y profundidad, por ejemplo La Laguna Encantada,
+<br>
+Esmeralda, Tinta, Ensueno, Perol y La Canada entre otras. En este
+<br> 
+lugar puede tambien visitar las cavernas del Puente de Dios cuyo
+<br>
+arcomide 40 metros de altura; en sus limites se localiza la zona 
+<br>
+arqueologica maya de Chinkulti.
+</H2>
+</p>
+</font>
+</font>
+<font face="Gabriola">
+<font color="blue">
+<p align="left">
+<h1><center>Tonina</h1>
+</center>
+</font>
+</font>
+<font face="Gabriola">
+<font color="black">
+<H2>
+<img src ="F:\CHIAPAS PROYECTO\mu.jpg" height=265 align="right" border=5>
+De acuerdo a informacion de mundochiapas.com, esta
+<br> 
+zona arqueologica maya se encuentra a solo 10 kilometros
+<br>
+de la ciudad de Ocosingo.El espacio sagrado de Tonina, 
+<br>
+es uno de los lugares donde se muestran mas los efectos 
+<br>
+del poder, ya que la estructura piramidal, se monto sobre
+<br>
+el remate de una cordillera que, llena de arboles, serpentea
+<br>
+por el norte del valle de Ocosingo.Ahi se formo un enorme 
+<br>
+laberinto de epocas, templos, palacios y escalinatas que se 
+<br>
+fueron encimando durante mas de mil anos de construccion.
+</H2>
+</p>
+</font>
+</font>
+<font face="Gabriola">
+<font color="blue">
+<p align="left">
+<h1><center>Puerto Arista</h1>
+</center>
+</font>
+</font>
+<font face="Gabriola">
+<font color="black">
+<H2>
+<img src ="F:\CHIAPAS PROYECTO\sa.jpg" height=265 align="right" border=5>
+Si lo que se busca es disfrutar un poco
+<br> 
+del mar, este destino en la costa chiapaneca
+<br>
+es el mas indicado.Los servicios turisticos 
+<br>
+son sencillos y existen varios lugares donde 
+<br>
+se puede disfrutar de la comida tipica con 
+<br>
+productos del mar.
+</H2>
+</p>
+<br>
+<br>
+<br>
+</font>
+</font>
+<font face="Gabriola">
+<font color="blue">
+<p align="left">
+<h1><center>La Selva Lacandona</h1>
+</center>
+</font>
+</font>
+<font face="Gabriola">
+<font color="black">
+<H2>
+<br>
+<img src ="F:\CHIAPAS PROYECTO\se.jpg" height=265 align="right" border=5>
+Localizada en el extremo sureste de la Republica Mexicana,
+<br>
+deleita a quien la visite con sus formas y modos, unicos 
+<br>
+en el mundo. su territorio comprende aproximadamente 1.8 
+<br>
+millones de hectareas, localizado en su mayoria en las 
+<br>
+Montanas del Oriente de Chiapas.El origen del nombre
+<br>
+"Lacandona" surge de una comunidad indigena descendiente 
+<br>
+de los mayas que vivia en la orilla del lago Miramar y 
+<br>
+que tenian un centro ceremonial en una isla llamada Lacan-Tun 
+<br>
+(piedra grande o penon); los espanoles  llamaron a estos 
+<br>
+indigenas "los de Lacantun", denominacion que fue derivando a
+<br>
+lacandon y finalmente lacandones.
+</H2>
+</p>
+</font>
+</font>
+<font face="Gabriola">
+<font color="blue">
+<p align="left">
+<h1><center>Canon del Sumidero</h1>
+</center>
+</font>
+</font>
+<font face="Gabriola">
+<font color="black">
+<H2>
+<img src ="F:\CHIAPAS PROYECTO\si.jpg" height=265 align="right" border=5>
+Este es otro de los lugares de Chiapas que no se pueden dejar
+<br>
+de visitar al viajar al estado. Conocido en a nivel mundial por
+<br>
+su inigualable belleza y su incalculable riqueza en biodiversidad
+<br>
+tanto en fauna como en flora, sin dejar de lado sus impresionante
+<br>
+formaciones rocosas, fue escenario de la batalla entre espanoles y
+<br>
+chiapanecos, donde se dio origen a la leyenda que cuenta que los
+<br>
+indigenas prefirieron lanzarse a las profundidades del canon antes
+<br>
+ de ser sojuzgados por los invasores.
+</H2>
+</p>
+</font>
+</font>
+<font face="Gabriola">
+<font color="blue">
+<p align="left">
+<h1><center>Zinacantan</h1>
+</center>
+</font>
+</font>
+<font face="Gabriola">
+<font color="black">
+<H2>
+<img src ="F:\CHIAPAS PROYECTO\su.jpg" height=265 align="right" border=5>
+Informacion del sitio mundochiapas.com, ubica al pueblo tsotsil 
+<br>
+a 10 kilometros de San Cristobal de las Casas, en el cual yace la
+<br>
+comunidad de Navenchau en el fondo de un valle rodeado de un relieve 
+<br>
+tipicamente calcareo. Sus casas, huertas e invernaderos, comparten el
+<br>
+escenario con un llano colmado por las lluvias durante buena parte del
+<br>
+ano.Sin duda una de las principales caracteristicas de Zinacantan, es el
+<br>
+despliegue de su produccion artesanal con gran colorido y su produccion
+<br>
+floricola que salpica el valle de invernaderos. Las flores son parte importante 
+<br>
+no solo de la economia zinacanteca, sino tambien de sus rituales.
+</H2>
+</p>
+</font>
+</font>
+</div>
+<div data-role="footer">
+<a href="#uno">  REGRESAR </a>
+</div>
+</div>
+<div data-role="page" id="cuatro">
+<div data-role="header">
+<FONT face="Gabriola">
+<CENTER> <H1> HOSPEDAJE EN HOTELES DEL ESTADO MAS HERMOSO DE MEXICO </H1> </CENTER>
+<div data-role="navbar">
+</FONT>
+<ul>
+<li> <a href="#" class="ui-btn-active ui-state-persist" data-icon="home">HOTELES</a> </li>
+<li> <a href="#Pagina2" data-icon="arrow-r">SERVICIOS</a></li>
+</ul>
+</div>
+</div>
+<div data-role="content">
+<FONT face="Gabriola">
+<font color="blue">
+<h1><center>Hotel Mision Palenque</h1>
+</center>
+</font>
+<p align="left">
+<img src ="F:\CHIAPAS PROYECTO\mision.jpg" height=300 width="550" align="right" border=5>
+<h3>
+Cascadas, vestigios majestuosos del pasado maya y paisajes selvaticos 
+<br>
+de ensueño rodean este hotel que brinda hospitalidad a quienes buscan 
+<br>
+realizar eventos empresariales o grandiosas bodas en un ambiente distinto.
+<br>
+Tambien es una excelente opcion para el viajero que busca descubrir uno 
+<br>
+de los tesoros mas significativos de la cultura maya en Chiapas.
+<br>
+Ademas, Hotel Misiin Palenque posee uno de los mejores spa del sur de Mexico.
+<br>
+210 habitaciones, incluyendo 2 suites. 3 salones con capacidad para hasta 
+<br>
+300 personas. Restaurante, alberca, gimnasio, spa, jacuzzi, temascal, canchas
+<br>
+de tenis, futbol y voleibol, bicicletas, juegos de mesa, juegos infantiles,
+<br>
+tabaqueria, agencia de viajes, tiendas de artesanías. A 15 minutos de la zona
+<br>
+arqueologica de Palenque. A 90 minutos del aeropuerto de Villahermosa, Tabasco.
+<br>
+Los detalles autenticos de Mexico estan en Hotel Mision Palenque.
+<br>
+<h2>Localizacion del Hotel</h2>
+<img src ="F:\CHIAPAS PROYECTO\192.jpg" height=300 width="550" align="left" border=5>
+<p align="right">
+Hotel Mision Palenque
+<br>
+Periferico Oriente s/n,
+<br> 
+C.P. 29960
+<br>
+Palenque, Chiapas.
+<br>
+Telefono:
+<br>
+916-345-0241
+<br>
+Fax:
+<br>
+916-345-0300
+<br>
+Contactenos
+<br>
+LADA (01-916)
+<br>
+Hotel Mision Palenque se encuentra convenientemente ubicado a 5 minutos de la
+<br>
+plaza principal y a 15 minutos de la zona arqueologica en Palenque.
+<br>
+A 60 minutos de las puertas del hotel se localizan las famosas cascadas de Agua 
+<br>
+Azul, donde chicos y grandes pasean y se divierten. El Aeropuerto Internacional
+<br>
+de Villahermosa, Tabasco, se situa a 90 minutos de Palenque.
+</p>
+<BR>
+<BR>
+<BR>
+<div data-role="collapsible">
+<h1>PRECIOS</h1>
+<p>
+<UL TYPE ="circle">
+<li><h1>Habitacion Preferencial Dos Camas Matrimoniales</h1>
+<br>La tarifa cubre habitacion con una excelente ubicacion frente 
+<br>a la alberca, cama Misión montada con ropa especial, un coctel
+<br> de bienvenida con bebida nacional, fruta como cortesia nocturna
+<br> servicio de despertador con cafe y jugo a la habitacion, lavado
+<br>y planchado de una prenda diaria, amenidades de categoría especial
+<h2 align="right">$5000.00</h2>
+<li><h1>Habitacion con una cama king </p></h1>
+<br>La habitación cuenta con dos botellas de agua surtidas diariamente, 
+<br>pantalla con senal satelital, internet inalambrico, aire
+<br>acondicionado y caja de seguridad.
+<h2 align="right">$3000.00</h2>
+<li> <h1>Habitacion con Dos Camas Matrimoniales</h1>
+<br>
+La habitacion cuenta con pantalla y sistema sky, internet inalambrico,
+<br> aire acondicionado y caja de seguridad.
+<h2 align="right">$$2500.00 </h2>
+</p>
+</div>
+<FONT FACE="Gabriola">
+<font color="blue">
+<h1><center>Hotel Chablis Palenque</h1>
+</center>
+</font>
+<p align="left">
+<img src ="F:\CHIAPAS PROYECTO\cha.jpg" height=500 width="550" align="right" border=5>
+<h3>
+Descripcion del Hotel</font>
+<br>
+Hotel Chablis en Palenque, Chiapas, Mexico, es un Hotel de 3 Estrellas con un 
+<br>total de 30 cómodas Habitaciones Estandar, con las amenidades ideales para una
+<br>cómoda estancia a unos cuantos kilometros de la Zona Arqueologica Palenque, en
+<br> Centro Ecoturístico La Cañada.
+<br>
+<br>Somos un hotel independiente, 100% mexicano, con la Mision de darle a nuestros
+<br>clientes el mejor servicio al mejor precio, teniendo de entorno: bellos arboles,
+<br>pajaros cantadores y la tranquilidad que ofrece esta bella zona ubicada a unos
+<br>metros del centro del poblado de Palenque.
+<br>El hotel fue creado en donde previamente los dueños operaban un Video-Bar. De ahi
+<br>el nombre Chablis, por el vino de una region francesa y por las iniciales de Chiapas.
+<br>Actualmente, en nuestras instalaciones, Usted encontrara alberca, salon de reuniones
+<br>y estacionamiento; tambien le ofrecemos los servicios de despertador, servicio medico,
+<br>deposito de seguridad, y registro de entrada y salida rapida, entre otros servicios.
+<br>
+<br>Hotel Chablis se encuentra a solo 150 metros de la carretera federal y de la famosa
+<br>Cabeza Maya de Palenque. La impresionante y mágica Zona Arqueologica de Palenque se
+<br>encuentra a tan solo 8 km de nuestras instalaciones. Otros atractivos naturales quedan
+<br>muy a la mano, de modo que el Hotel Chablis es su mejor opcion.
+<br>Reserve ahora con nosotros y pase su mejor estancia en este magico destino lleno de
+<br>cultura, aventura y tradicion.
+<br>Le esperamos con gusto en
+<br>Hotel Chablis Palenque.
+<br>
+<font color="blue">
+<br>
+<img src ="F:\CHIAPAS PROYECTO\6.jpg" height=400 width="550" align="right" border=5>
+<br>Localizacion del Hotel</font>
+<br>Hotel Chablis Palenque
+<br>Merle Green No. 7 Centro Eco-Turistico La Cañada
+<br>Palenque, Chiapas, CP 29968 
+<br>Para llegar a Palenque viniendo de Merida o Villahermosa usted toma la carretera 186,
+<br>y en la desviacion del crucero de Playas de Catazaja usted gira a tomar la carretera
+<br>199 en direccion a Palenque. 28 kms despues usted estará aqui con nosotros. Viniendo
+<br>de San Cristobal de las Casas, toma la carretera 199 en direccion a Ocosingo. Les esperamos!
+<br>
+<font color="blue">
+<UL TYPE ="square">
+Distancias a principales ciudades</font>
+<li>Campeche 364 Km / 4 hrs.
+<li>Cancun 864 Km / 12 hrs.
+<li>Comitan 153 Km / 4 hrs.
+<li>Chetumal 485 Km / 7 hrs.
+<li>Merida 528 Km / 8 hrs.
+<li>Ocosingo 119 Km / 2 hrs.
+<li>San Cristobal de las Casas 220 Km / 4 hrs.
+<li>Tuxtla Gutiérrez 300 Km / 6 hrs.
+<li>Villahermosa 142 Km / 2 hrs.
+</UL>
+</h3>
+</FONT>
+<div data-role="collapsible">
+<h1>PRECIOS</h1>
+<p>
+<FONT face="Gabriola">
+<UL TYPE ="circle">
+<li><h1>Habitacion Estandar 1 </h1>
+<br>Habitacion con 1 cama King, equipadas con clima, ventilador,
+<br>telefono,TV por cable, control remoto, bano privado y amenidades.
+<h2 align="right">$5000.00</h2>
+<li> <h1>Habitacion Estandar 2 Matrimoniales</h1>
+<br>Habitacion con 2 camas Matrimoniales, equipadas con clima, telefono,
+<br>ventilador, TV por cable, control remoto, bano privado y amenidades
+<h2 align="right">$$2500.00 </h2>
+</p>
+</FONT>
+</div>
+<FONT face="Gabriola">
+<font color="blue">
+<h1><center>Hotel Nututun Palenque</h1>
+</center>
+</font>
+<p align="left">
+<img src ="F:\CHIAPAS PROYECTO\hu.jpg" height=300 width="550" align="right" border=5>
+<br>El Hotel Nututun Palenque esta localizado a 10 minutos de la Zona Arqueologica<br>
+de Palenque y a una hora de distancia de las cascadas de Agua Azul. El Hotel<br>
+se ubica en la riviera del río Chacamax rodeado de una maravillosa vegetacion tropical
+<font color="blue">
+<UL TYPE ="square">
+Instalaciones</font>
+<li>Alberca con Snack Bar
+<li>Balneario Natural
+<li>Area de juegos infantiles
+<li>Areas verdes para campar
+<li>Habitaciones libre de humo
+<li>Area de camping
+<li>Centro de negocios
+<li>Acceso para sillas de ruedas
+<li>Tienda de Artesania ($)
+<li>Estacionamiento sin costo
+<li>Salones ($)
+</UL>
+</FONT>
+</p>
+<div data-role="collapsible">
+<h1>PRECIOS</h1>
+<p>
+<UL TYPE ="circle">
+<FONT face="Gabriola">
+<li> Tarifa Promedio
+Impuestos incluidos
+<h2 align="right">MXN $799</h2>
+</FONT>
+</p>
+</div>
+</div>
+<div data-role="footer">
+<a href="#uno">  REGRESAR </a>
+</div>
+</div>
+<div data-role="page" id="Pagina2">
+<div data-role="header">
+<FONT face="Gabriola">
+<h1>SERVICIOS DE LOS HOTELES DEL ESTADO MAS HERMOSO DE MEXICO</h1>
+</FONT>
+<div data-role="navbar">
+<ul>
+<li><a href="#cuatro" data-icon="home">HOTELES</a> </li>
+<li><a href="#"class="ui-btn-active ui-state-persist" data-icon="arrow-r">SERVICIOS</a></li>
+</ul>
+</div>
+</div>
+<div data-role="main" class="ui-content">
+<FONT face="Gabriola">
+<font color="blue">
+<h1><center>Hotel Mision Palenque</h1>
+</center>
+</font>
+<UL TYPE ="square">
+<img src ="F:\CHIAPAS PROYECTO\re.jpg" height=500 align="right" border=5>
+<h3>
+<h2>Tipos de Habitacion/Unidad</h2>
+<LI>Habitaciones estilo tropical en Palenque.
+<LI>Hotel Mision Palenque ofrece 218 comodas habitaciones y suites.
+<LI>218 habitaciones
+<LI>216 estándar
+<LI>2 junior suite
+</UL>
+<UL TYPE ="square">
+<h2>Caracteraisticas de las habitaciones:</h2>
+<LI>Una cama king size o 2 camas dobles.
+<LI>Sofa-cama.
+<LI>Aire acondicionado.
+<LI>Internet inalambrico de cortesia.
+<LI>Television por cable.
+<LI>Terraza con vista al jardin.
+</UL>
+<UL TYPE ="square">
+<h2>Caracteristicas de la suite:</h2>
+<LI>Comedor.
+<LI>Cafetera.
+<LI>Mini Bar.
+<LI>Ademas de todas las caracteristicas de una habitacion estandar.
+</h3>
+</UL>
+</FONT>
+<br>
+<br>
+<br>
+<FONT face="Gabriola">
+<font color="blue">
+<h1><center>Hotel Chablis Palenque</center>
+</font>
+<font color="blue">
+Recreacion </font></h1>
+<UL TYPE ="square">
+	 <LI> Atencion las 24 hrs.
+	 <LI> Aire Acondicionado
+	 <LI> Abastece a Parejas
+	 <LI> Abastece a Familias
+	 <LI> Abastece a Grupos
+	 <LI> Periodico
+	 <LI> Renta de Computadoras
+	 <LI> Sala de Conferencias
+	 <LI> Registro Rapido de Entrada y Salida.
+	 <LI> Acceso a Internet
+	 </UL>
+	 <UL TYPE ="square">
+	 <LI> Servicio de Limpieza
+	 <LI> Servicio Medico
+	 <LI> Servicio a Habitacion (Horas Limitadas)
+	 <LI> Servicio de Despertador
+	 <LI> Acceso Para Silla de Ruedas
+	 <LI> Balcon
+	 <LI> Los Ninos Se Quedan Gratis
+	 <LI> Salon de Reunion
+	 <LI> Estacionamiento
+	 <LI> Piscina Exterior
+	 <LI> Deposito de Seguridad
+	 <LI> Regadera
+	 <LI> TV, Cable
+	 <LI> Bano Privado
+	 <LI> 120 AC
+	 <LI> Seguridad Contra Incendios
+	 </H3>
+</UL>
+<H3>
+<p align="">
+<h2>Tipos de Habitacion/Unidad</h2>
+<br>
+20 Habitaciones Estandar
+<br>
+Equipadas con clima, ventilador, TV por cable, control remoto, Internet inalambrico,
+<br>
+bano privado y amenidades. Cama king Size o 2 Camas Matrimoniales.
+<br>
+Habitacion Estandar 1 King
+<br>
+Habitacion con 1 cama King, equipadas con clima, ventilador, telefono, TV por
+<br>
+cable, control remoto, bano privado y amenidades.
+<br>	
+Habitacion Estandar 2 Matrimoniales
+<br>
+Habitacion con 2 camas Matrimoniales, equipadas con clima, telefono, ventilador
+<br>
+TV por cable, control remoto, bano privado y amenidades.
+</H3>
+<FONT face="Gabriola">
+<font color="blue">
+<h1><center>Hotel Nututun Palenque</h1>
+</center>
+<img src ="F:\CHIAPAS PROYECTO\st.jpg" height=300 width="300" align="right" border=5>
+<img src ="F:\CHIAPAS PROYECTO\sw.jpg" height=300 width="300" align="right" border=5>
+<UL TYPE ="square">
+<h2>Servicios</h2></font>
+<LI>Internet inalámbrico
+<LI>Servicio de ama de llaves
+<LI>Resguardo de equipaje
+<LI>Servicio de bell boy
+<LI>Cambio de divisas
+<LI>Caja de seguridad en recepción
+<LI>Servicio de lavandería ($)
+<LI>Servicio médico ($)
+<LI>Servicio a la habitación ($)
+</UL>
+</FONT>
+</div>
+<div data-role="footer">
+<a href="#uno">  REGRESAR </a>
+</body>
+</html>
